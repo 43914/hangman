@@ -1,0 +1,10 @@
+PYTHON HANGMAN
+## = completed
+Goals:
+Simple, text-based UI
+Random word generator ##
+Input for letters
+List of available letters
+Word feature-fills in blanks (_) with letters like (B__M_R)
+Win condition
+Lose condition
